@@ -6,4 +6,5 @@ debug = true
 resolver = "2"
 members = [
     "day1",
+    "day2",
 ]
